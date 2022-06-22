@@ -9,6 +9,7 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/nabil_jahan" target="blank"><img src="https://img.shields.io/twitter/follow/nabil_jahan?logo=twitter&style=for-the-badge" alt="nabil_jahan" /></a> </p> -->
 
+- 🔭 I’m currently pursuing Bachelor of Technology in **CSE** at **Jalpaiguri Government Engineering College**
 - 🌱 I’m currently learning **React.js**
 
 - 💬 Ask me about **HTML , CSS , JS , Material-UI , Bootstrap**
