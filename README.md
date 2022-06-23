@@ -45,8 +45,9 @@
 <img alt="My Github stats" border-radius="40px" width="800px" height="200px" src="https://github-readme-stats.vercel.app/api?username=nabiljkhan&count_private=true&show_icons=true&hide_border=true&theme=react" href="https://github.com/nabiljkhan"/>
 </p>
 <p align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabiljkhan&layout=compact&theme=react&count_private=false" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabiljkhan&layout=compact&theme=react&count_private=false&hide_border=true" />
 </p>
+<br/>
 <h3 align="center">Streak stats:</h3>
 <p align="center">
   <a href="https://github.com/nabiljkhan/github-readme-streak-stats">
@@ -56,6 +57,7 @@
 <!-- theme =tokyonight -->
 
 [![Nabil's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nabiljkhan&theme=react-dark)](https://github.com/nabiljkhan)
+<br/>
 
 
 <h3 align="center">Coding Profiles:</h3>
