@@ -50,7 +50,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nabiljkhan&layout=compact&theme=react&count_private=false&hide_border=true" />
 </p>
 <br/>
-<h3 align="center">Streak stats:</h3>
+<h3 align="center">Contributions & Streak stats:</h3>
 <p align="center">
   <a href="https://github.com/nabiljkhan/github-readme-streak-stats">
     <img alt="Nabil's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nabiljkhan&theme=react&hide_border=true"/>  
