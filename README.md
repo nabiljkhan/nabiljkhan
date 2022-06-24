@@ -12,9 +12,9 @@
 - 🔭 I’m currently pursuing Bachelor of Technology in **CSE** at **Jalpaiguri Government Engineering College**
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **Front end Devlopment , Football & E-sports**
+- 💬 Ask me about **Front-end Web Devlopment , Football & E-sports**
 
-- 📫 How to reach me **nabiljahankhan@gmail.com**
+- 📫 How to reach me **nabiljkhan786@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1O9wpoNQXWLozKfJ3GR29H4K8wtpbOnaD/view?usp=sharing](https://drive.google.com/file/d/1O9wpoNQXWLozKfJ3GR29H4K8wtpbOnaD/view?usp=sharing)
 
@@ -42,7 +42,7 @@
 <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
 </p>
 <br/>
-
+<h3 align="center">Github stats:</h3>
 <p align="center">
 <img alt="My Github stats" border-radius="40px" width="800px" height="200px" src="https://github-readme-stats.vercel.app/api?username=nabiljkhan&count_private=true&show_icons=true&hide_border=true&theme=react" href="https://github.com/nabiljkhan"/>
 </p>
