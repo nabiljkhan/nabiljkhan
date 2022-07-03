@@ -12,7 +12,7 @@
 - 🔭 I’m currently pursuing Bachelor of Technology in **CSE** at **Jalpaiguri Government Engineering College**
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **Front-end Web Devlopment , Football & E-sports**
+- 💬 Ask me about **Front-end Web Devlopment , DSA , Football & E-sports**
 
 - 📫 How to reach me **nabiljkhan786@gmail.com**
 
