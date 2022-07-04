@@ -75,3 +75,5 @@
 <a href="https://twitter.com/nabil_jahan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nabil_jahan" height="30" width="40" /></a>
 <a href="https://instagram.com/starzen.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="starzen_exe" height="30" width="40" /></a>
 </p>
+
+<img height="120" alt="So nice of you paying a visit! , Thank You" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
