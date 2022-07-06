@@ -17,6 +17,8 @@
 - 📄 Know about my experiences [here!](https://drive.google.com/file/d/1O9wpoNQXWLozKfJ3GR29H4K8wtpbOnaD/view?usp=sharing)
 - ⚡ Fun fact **It’s all 0’s and 1’s**
 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nabiljahan.netlify.app/)
+
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabiljkhan&label=Profile%20views&color=0e75b6&style=flat" alt="nabiljkhan" /> </p> -->
  
