@@ -18,6 +18,7 @@
 - ⚡ Fun fact **It’s all 0’s and 1’s**
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nabiljahan.netlify.app/)
+[![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:nabiljkhan786@gmail.com)
 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nabiljkhan&label=Profile%20views&color=0e75b6&style=flat" alt="nabiljkhan" /> </p> -->
