@@ -15,7 +15,7 @@
 - 💬 Ask me about **Front-end Web Devlopment , DSA  & Football**
 - 📫 How to reach me **nabiljkhan786@gmail.com**
 - 📄 Know about my experiences [here!](https://drive.google.com/file/d/1O9wpoNQXWLozKfJ3GR29H4K8wtpbOnaD/view?usp=sharing)
-- ⚡ Fun fact **It’s all 0’s and 1’s**
+- ⚡ Fun fact **Life is not a problem to be solved but a reality to be experienced**
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nabiljahan.netlify.app/)
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:nabiljkhan786@gmail.com)
