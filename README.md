@@ -11,8 +11,8 @@
 
 - 🔭 I’m currently pursuing Bachelor of Technology in **CSE** at **Jalpaiguri Government Engineering College**
 - 🌱 I’m currently learning **React.js**
-- 👯 I’m looking to collaborate on React & API based projetcs
-- 💬 Ask me about **Front-end Web Devlopment , DSA , Football & E-sports**
+- 👯 I’m looking to collaborate on creative and inovative projetcs
+- 💬 Ask me about **Front-end Web Devlopment , DSA  & Football**
 - 📫 How to reach me **nabiljkhan786@gmail.com**
 - 📄 Know about my experiences [here!](https://drive.google.com/file/d/1O9wpoNQXWLozKfJ3GR29H4K8wtpbOnaD/view?usp=sharing)
 - ⚡ Fun fact **It’s all 0’s and 1’s**
