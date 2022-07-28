@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nabil Jahan Khan</h1>
-<h3 align="center">A passionate frontend developer from India</h3> 
+<h3 align="center">Coder || Developer || Learner</h3> 
 <br/>
 
 
