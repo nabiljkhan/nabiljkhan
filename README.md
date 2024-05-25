@@ -9,10 +9,10 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/nabil_jahan" target="blank"><img src="https://img.shields.io/twitter/follow/nabil_jahan?logo=twitter&style=for-the-badge" alt="nabil_jahan" /></a> </p> -->
 
-- 🔭 I’m currently pursuing Bachelor of Technology in **CSE** at **Jalpaiguri Government Engineering College**
-- 🌱 I’m currently learning **React.js**
+- 🔭 I’m currently Working as Associate Software Developer at **Celebal Technologies**
+- 🌱 I’m currently learning **D365 & Power Platform**
 - 👯 I’m looking to collaborate on creative and inovative projetcs
-- 💬 Ask me about **Front-end Web Devlopment , DSA  & Football**
+- 💬 Ask me about **Power Platform , Front-end Web Devlopment , DSA  & Football**
 - 📫 How to reach me **nabiljkhan786@gmail.com**
 - 📄 Know about my experiences [here!](https://drive.google.com/file/d/1O9wpoNQXWLozKfJ3GR29H4K8wtpbOnaD/view?usp=sharing)
 - ⚡ Fun fact **Life is not a problem to be solved but a reality to be experienced**
